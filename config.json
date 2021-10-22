@@ -1,0 +1,19 @@
+{
+     "ownerNumber": "6288296193179@s.whatsapp.net",
+     "limitCount": 100,
+     "gamewaktu": 60,
+     "apikey": "PunyaNovem12",
+     "lolkey": "PunyaNovem12",
+     "botName": "Vem Bot",
+     "pathImg": "./media/logo.png",
+     "sessionName": "ramlanid",
+     "gcount": {
+          "prem": 200,
+          "user": 50
+     },
+     "saweria": {
+          "email": "YOUR_EMAIl",
+          "password": "YOUR_PW",
+          "user-id": "YOUR_ID"
+     }
+}

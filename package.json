@@ -1,0 +1,52 @@
+{
+  "name": "babybot",
+  "version": "2.0.0",
+  "description": "Nothing Like 127.0.0.1",
+  "main": "main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "author": "aqulzz",
+  "remodifikasi_by": "Ramlan ID",
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.5.1",
+    "@vitalets/google-translate-api": "^7.0.0",
+    "amazon-buddy": "^2.2.37",
+    "axios": "^0.21.1",
+    "bing-scraper": "^1.4.11",
+    "brainly-scraper-v2": "^2.0.4-1",
+    "chalk": "^4.1.1",
+    "cheerio": "^1.0.0-rc.9",
+    "figlet": "^1.5.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "g-i-s": "^2.1.6",
+    "google-it": "^1.6.2",
+    "google-play-scraper": "^8.0.2",
+    "ip-to-location": "^1.0.1",
+    "jsdom": "^16.5.3",
+    "moment-timezone": "^0.5.33",
+    "mysql": "^2.18.1",
+    "node-fetch": "^2.6.1",
+    "npm": "^7.16.0",
+    "parse-ms": "^2.1.0",
+    "pm2": "^5.1.0",
+    "qrcode": "^1.4.4",
+    "request": "^2.88.2",
+    "weather-js": "^2.0.0",
+    "yt-search": "^2.8.0",
+    "canvacord": "^5.2.3",
+    "text2png": "^2.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ramlan404"
+  },
+  "bugs": {
+    "url": "https://github.com/Ramlan404"
+  },
+  "homepage": "https://github.com/Ramlan404"
+}
